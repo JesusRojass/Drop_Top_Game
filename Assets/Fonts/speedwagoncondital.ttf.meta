@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3a6c74481203347c8ac4e83fa1148453
+timeCreated: 1487610911
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Speedwagon Condensed Italic
+  fontNames:
+  - Speedwagon Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
